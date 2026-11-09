@@ -7,3 +7,6 @@ testes/*.png
 testes/*.json
 testes/*.mp3
 testes/*.wav
+
+.env
+.env.*
